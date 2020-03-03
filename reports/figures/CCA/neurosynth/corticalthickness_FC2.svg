@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1024px" height="768px" viewBox="0 0 1024 768">
+<clipPath id="cp2">
+<path d="M 0,0 L 1024,0 L1024,768 L 0,768 z M 0,0 L 1280,0 L 1280,960 L 0,960 z" fill-rule="evenodd">
+</path>
+</clipPath>
+<g clip-path="url(#cp2)">
+</g>
+<rect x="0" y="0" width="1280" height="960" opacity="1" fill="rgb(250,251,255)" fill-opacity="0" stroke="none">
+</rect>
+<text x="-231.53814697265625" y="8.012299679999998" style="font: normal 80.12299680000001px Arial,Helvetica,sans-serif" text-anchor="start" dy="31.66916869565218" opacity="1" fill="#8d0c25" stroke="none" transform="translate(510, 384) rotate(-360)">sesnorimotor</text>
+<text x="-302.7776794433594" y="8.012299679999998" style="font: normal 80.12299680000001px Arial,Helvetica,sans-serif" text-anchor="start" dy="31.66916869565218" opacity="1" fill="#246aae" stroke="none" transform="translate(514, 336) rotate(-15120.000000000002)">episodic memory</text>
+<text x="-75.73841857910156" y="8.012299679999998" style="font: normal 80.12299680000001px Arial,Helvetica,sans-serif" text-anchor="start" dy="31.66916869565218" opacity="1" fill="#bd2d35" stroke="none" transform="translate(494, 432) rotate(-2160)">pain</text>
+<text x="-314.0054016113281" y="8.012299679999998" style="font: normal 80.12299680000001px Arial,Helvetica,sans-serif" text-anchor="start" dy="31.66916869565218" opacity="1" fill="#4c99c6" stroke="none" transform="translate(520, 478)">object recognition</text>
+<text x="-293.4288635253906" y="5.341533120000001" style="font: normal 53.41533120000001px Arial,Helvetica,sans-serif" text-anchor="start" dy="21.112779130434788" opacity="1" fill="#5fa5cd" stroke="none" transform="translate(486, 288) rotate(-9360.000000000002)">face/affective processing</text>
+<text x="-200.36566162109375" y="5.341533120000001" style="font: normal 53.41533120000001px Arial,Helvetica,sans-serif" text-anchor="start" dy="21.112779130434788" opacity="1" fill="#59a1ca" stroke="none" transform="translate(480, 248) rotate(-9000)">verbal semantics</text>
+<text x="-291.0035400390625" y="5.341533120000001" style="font: normal 53.41533120000001px Arial,Helvetica,sans-serif" text-anchor="start" dy="21.112779130434788" opacity="1" fill="#65a9cf" stroke="none" transform="translate(560, 536) rotate(-6839.999999999999)">feedback based learning</text>
+<text x="-89.08617401123047" y="5.341533120000001" style="font: normal 53.41533120000001px Arial,Helvetica,sans-serif" text-anchor="start" dy="21.112779130434788" opacity="1" fill="#6eaed2" stroke="none" transform="translate(484, 206) rotate(-10440)">reading</text>
+<text x="-219.71633911132812" y="5.341533120000001" style="font: normal 53.41533120000001px Arial,Helvetica,sans-serif" text-anchor="start" dy="21.112779130434788" opacity="1" fill="#78b4d5" stroke="none" transform="translate(508, 576) rotate(-13320)">emotion regulation</text>
+<text x="-311.7494812011719" y="5.341533120000001" style="font: normal 53.41533120000001px Arial,Helvetica,sans-serif" text-anchor="start" dy="21.112779130434788" opacity="1" fill="#81bad8" stroke="none" transform="translate(492, 168) rotate(-3959.9999999999995)">sentences comprehension</text>
+<text x="-360.71295166015625" y="5.341533120000001" style="font: normal 53.41533120000001px Arial,Helvetica,sans-serif" text-anchor="start" dy="21.112779130434788" opacity="1" fill="#a2cde3" stroke="none" transform="translate(510, 616) rotate(-5760)">reward based decision making</text>
+<text x="-115.76293182373047" y="2.6707665600000006" style="font: normal 26.707665600000006px Arial,Helvetica,sans-serif" text-anchor="start" dy="10.556389565217394" opacity="1" fill="#b6d7e8" stroke="none" transform="translate(686, 428) rotate(-12959.999999999998)">auditory processing</text>
+<text x="-115.01982879638672" y="2.6707665600000006" style="font: normal 26.707665600000006px Arial,Helvetica,sans-serif" text-anchor="start" dy="10.556389565217394" opacity="1" fill="#b1d5e7" stroke="none" transform="translate(304, 436) rotate(-14400)">numerical cognition</text>
+<text x="-100.18360137939453" y="2.6707665600000006" style="font: normal 26.707665600000006px Arial,Helvetica,sans-serif" text-anchor="start" dy="10.556389565217394" opacity="1" fill="#b1d5e7" stroke="none" transform="translate(674, 216) rotate(-2880)">facial recognition</text>
+<text x="-89.05643463134766" y="2.6707665600000006" style="font: normal 26.707665600000006px Arial,Helvetica,sans-serif" text-anchor="start" dy="10.556389565217394" opacity="1" fill="#b6d7e8" stroke="none" transform="translate(470, 148) rotate(-10080)">visual attention</text>
+</svg>

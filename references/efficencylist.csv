@@ -1,0 +1,13 @@
+EFF,ACC,RT
+MWQ_1-back_EFF,MWQ_WM.ACC,MWQ_WM.RT
+MWQ_0-back_EFF,MWQ_CRT.ACC,MWQ_CRT.RT
+PA_DelRec_EFF,PA_Acc_DelRec,PA_RT_DelRec
+RJT_pw_Strong_EFF,RJT_pw_ACC_Strong,RJT_pw_RT_Strong
+RJT_pw_Weak_EFF,RJT_pw_ACC_Weak,RJT_pw_RT_Weak
+RJT_pw_subset_EFF,RJT_pw_ACC_subset,RJT_pw_RT_subset
+RJT_pp_EFF,RJT_pp_ACC,RJT_pp_RT
+RJT_ww_EFF,RJT_ww_ACC,RJT_ww_RT
+PMT_General_EFF,PMT_ACC_General,PMT_RT_General
+PMT_Specific_EFF,PMT_ACC_Specific,PMT_RT_Specific
+FMT_EFF,FMT_ACC,FMT_RT
+Feat_EFF,Feat_ACC,Feat_RT

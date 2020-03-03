@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GIFTI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="http://brainvis.wustl.edu/caret6/xml_schemas/GIFTI_Caret.xsd"
+       Version="1"
+       NumberOfDataArrays="1">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[AnatomicalStructurePrimary]]></Name>
+         <Value><![CDATA[CortexLeft]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteNormalizationMode]]></Name>
+         <Value><![CDATA[NORMALIZATION_SELECTED_MAP_DATA]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[ParentProvenance]]></Name>
+         <Value><![CDATA[/home/hw1012/masks_atlas/standard_surface/lh.midthickness.5k_fs_LR.surf.gii:
+wb_command -surface-resample data/external/fsaverage5/lh.midthickness.surf.gii data/external/fsaverage5/lh.sphere.reg.surf.gii /groups/labs/semwandering/MPsych2018/data/external/decimate_surface_5k/fs_LR-deformed_to-fsaverage.L.sphere.5k_fs_LR.surf.gii BARYCENTRIC data/external/fsaverage5/lh.midthickness.5k_fs_LR.surf.gii
+
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[ProgramProvenance]]></Name>
+         <Value><![CDATA[Connectome Workbench
+Type: Command Line Application
+Version: 1.3.2
+Qt Compiled Version: 5.7.1
+Qt Runtime Version: 5.7.1
+Commit: unknown
+Commit Date: unknown
+Compiled with OpenMP: YES
+Compiler: c++ (/usr/bin)
+Compiler Version: 6.3.0
+Compiled Debug: NO
+Operating System: Linux
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Provenance]]></Name>
+         <Value><![CDATA[wb_command -volume-to-surface-mapping scca_mode1_mean.nii.gz /home/hw1012/masks_atlas/standard_surface/lh.midthickness.5k_fs_LR.surf.gii lh.mode1.5k_fs_LR.func.gii -enclosing]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[WorkingDirectory]]></Name>
+         <Value><![CDATA[/home/hw1012/TaskSCCA_craddock/reports/figures/CCA/niftis]]></Value>
+      </MD>
+   </MetaData>
+   <LabelTable>
+      <Label Key="0" Red="1" Green="1" Blue="1" Alpha="0"><![CDATA[???]]></Label>
+   </LabelTable>
+<DataArray Intent="NIFTI_INTENT_NORMAL"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="5000"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[ enclosing voxel]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_USER_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <AutoScaleAbsolutePercentageValues>2.000000 98.000000</AutoScaleAbsolutePercentageValues>
+   <UserScaleValues>-0.600000 0.000000 0.000000 0.600000</UserScaleValues>
+   <PaletteName>cool-warm</PaletteName>
+   <InterpolatePalette>true</InterpolatePalette>
+   <InvertPalette>OFF</InvertPalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+   <ThresholdRangeMode>PALETTE_THRESHOLD_RANGE_MODE_FILE</ThresholdRangeMode>
+   <ThresholdLowHighLinked>false</ThresholdLowHighLinked>
+   <ThresholdOutlineDrawingMode>OFF</ThresholdOutlineDrawingMode>
+   <ThresholdOutlineDrawingColor>WHITE</ThresholdOutlineDrawingColor>
+   <HistogramRangeMode>PALETTE_HISTOGRAM_RANGE_ALL</HistogramRangeMode>
+   <HistogramBarsVisible>true</HistogramBarsVisible>
+   <HistogramEnvelopeVisible>false</HistogramEnvelopeVisible>
+   <HistogramBarsColor>CUSTOM</HistogramBarsColor>
+   <HistogramEnvelopeColor>RED</HistogramEnvelopeColor>
+   <HistogramEnvelopeLineWidthPercentage>0.5</HistogramEnvelopeLineWidthPercentage>
+   <HistogramNumberOfBuckets>100</HistogramNumberOfBuckets>
+   <NumericFormatMode>AUTO</NumericFormatMode>
+   <PrecisionDigits>2</PrecisionDigits>
+   <NumericSubivisions>0</NumericSubivisions>
+   <ColorBarValuesMode>DATA</ColorBarValuesMode>
+   <ShowTickMarksSelected>false</ShowTickMarksSelected>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+   </MetaData>
+   <Data>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</Data>
+</DataArray>
+</GIFTI>

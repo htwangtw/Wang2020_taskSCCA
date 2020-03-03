@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="1024px"
+   height="768px"
+   viewBox="0 0 1024 768"
+   id="svg33"
+   sodipodi:docname="wordcloud_0b.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata39">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs37" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     id="namedview35"
+     showgrid="false"
+     inkscape:zoom="1.24"
+     inkscape:cx="345.5246"
+     inkscape:cy="429.29032"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg33" />
+  <clipPath
+     id="cp2">
+    <path
+       d="M 0,0 L 1024,0 L1024,768 L 0,768 z M 0,0 L 1280,0 L 1280,960 L 0,960 z"
+       fill-rule="evenodd"
+       id="path2" />
+  </clipPath>
+  <g
+     clip-path="url(#cp2)"
+     id="g5" />
+  <rect
+     x="0"
+     y="0"
+     width="1280"
+     height="960"
+     opacity="1"
+     fill="rgb(150,151,153)"
+     fill-opacity="0"
+     stroke="none"
+     id="rect7" />
+  <text
+     x="-294"
+     y="15.932227760000004"
+     style="font: normal 159.86445552px Arial,Helvetica,sans-serif"
+     text-anchor="start"
+     dy="63.18753182608697"
+     opacity="1"
+     fill="#053061"
+     stroke="none"
+     transform="translate(496, 398) rotate(-8640)"
+     id="text9"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">Detailed</text>
+  <text
+     x="-119.5"
+     y="10.06596312"
+     style="font: normal 101.73192624px Arial,Helvetica,sans-serif"
+     text-anchor="start"
+     dy="40.210247525691706"
+     opacity="1"
+     fill="#0c3d73"
+     stroke="none"
+     transform="translate(484, 300) rotate(-10799.999999999998)"
+     id="text11"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">Habit</text>
+  <text
+     x="391.87097"
+     y="515.74335"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.73192596px;line-height:normal;font-family:Arial, Helvetica, sans-serif;text-anchor:start;opacity:1;fill:#2870b1;stroke:none"
+     dy="40.210247"
+     id="text13"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">Past</text>
+  <text
+     x="-125"
+     y="8.719879391999996"
+     style="font: normal 87.19879392px Arial,Helvetica,sans-serif"
+     text-anchor="start"
+     dy="34.46592645059289"
+     opacity="1"
+     fill="#2a71b2"
+     stroke="none"
+     transform="translate(488, 230) rotate(-3239.9999999999995)"
+     id="text15"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">Future</text>
+  <text
+     x="281.95163"
+     y="621.62311"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:87.1987915px;line-height:normal;font-family:Arial, Helvetica, sans-serif;text-anchor:start;opacity:1;fill:#be3036;stroke:none"
+     id="text17"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">Task</text>
+  <text
+     x="-74.5"
+     y="8.719879391999996"
+     style="font: normal 87.19879392px Arial,Helvetica,sans-serif"
+     text-anchor="start"
+     dy="34.46592645059289"
+     opacity="1"
+     fill="#266caf"
+     stroke="none"
+     transform="translate(676, 334) rotate(-1080)"
+     id="text19"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">Self</text>
+  <text
+     x="468.80646"
+     y="589.29413"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72.66566467px;line-height:normal;font-family:Arial, Helvetica, sans-serif;text-anchor:start;opacity:1;fill:#84bcd9;stroke:none"
+     dy="28.721605"
+     id="text21"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">Deliberate</text>
+  <text
+     x="-80"
+     y="4.199698479999999"
+     style="font: normal 43.59939696px Arial,Helvetica,sans-serif"
+     text-anchor="start"
+     dy="17.232963225296444"
+     opacity="1"
+     fill="#f5ac8b"
+     stroke="none"
+     transform="translate(502, 188) rotate(-4320)"
+     id="text23"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">Emotion</text>
+  <text
+     x="304.20969"
+     y="369.13519"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.59939575px;line-height:normal;font-family:Arial, Helvetica, sans-serif;text-anchor:start;opacity:1;fill:#b3d6e8;stroke:none"
+     dy="17.232964"
+     id="text25"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">Other</text>
+  <text
+     x="451"
+     y="367.45776"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.59939575px;line-height:normal;font-family:Arial, Helvetica, sans-serif;text-anchor:start;opacity:1;fill:#b6d7e8;stroke:none"
+     dy="17.232964"
+     id="text27"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">Vivid</text>
+  <text
+     x="501.5"
+     y="486.6214"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.53313255px;line-height:normal;font-family:Arial, Helvetica, sans-serif;text-anchor:start;opacity:1;fill:#b8d8e9;stroke:none"
+     dy="5.7443209"
+     id="text29"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">Images</text>
+  <text
+     x="448.18173"
+     y="284.10529"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.53313255px;line-height:normal;font-family:Arial, Helvetica, sans-serif;text-anchor:start;opacity:1;fill:#fae9df;stroke:none"
+     dy="5.7443209"
+     id="text31"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">Words</text>
+</svg>

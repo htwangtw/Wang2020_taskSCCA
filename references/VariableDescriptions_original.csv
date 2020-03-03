@@ -1,0 +1,150 @@
+Variable,Description
+IDNO,IDNO - behavioural testing order
+SIDNO,scanning order
+RNO,RNO - R number (YNIC identifier)
+INDEX,"INDEX - Indicates what project this participant was tested from (e.g., cohort 1, 2 or ageing)"
+AGE,Age
+GENDER,Gender
+EDUCATION,Level of education
+HANDEDNESS,Handedness
+MARTIAL,Marital Status
+ILL,Do you consider yourself ill?
+QD_ADHD,Average ADHD score across all 18 items
+QD_ADHD_A,Average ADHD score for Part A (Q1-6)
+QD_ADHD_B,Average ADHD score for Part A (Q7-18)
+QD_AQ_SOCIAL,AQ (Autism Spectrum Quotient) score for social skill dimension (SUMMED) Range 1 - 10
+QD_AQ_SWITCH,AQ (Autism Spectrum Quotient) score for attention switching dimension (SUMMED) Range 1 - 10
+QD_AQ_DETAIL,AQ (Autism Spectrum Quotient) score for attention to detail dimension (SUMMED) Range 1 - 10
+QD_AQ_COMM,AQ (Autism Spectrum Quotient) score for communication dimension (SUMMED) Range 1 - 10
+QD_AQ_IM,AQ (Autism Spectrum Quotient) score for imagination dimension (SUMMED) Range 1 - 10
+QD_AQ,Total AQ (Autism Spectrum Quotient) score (SUMMED) cut-off = 32+
+QD_CES_D,Depression score (SUMMED) - higher scores = more depression
+QD_IPI_DD,Daydreaming frequency of IPI - higher scores = greater daydreaming frequency (SUMMED)
+QD_IPI_ND,Night dreaming frequency of IPI - higher scores = greater night dreaming frequency (SUMMED)
+QD_MAIA_N,Score for noticing subscale of the MAIA (Multi-dimensional Assesment of Interoceptive Awareness) (MEAN)
+QD_MAIA_ND,Score for not distracting subscale of the MAIA (Multi-dimensional Assesment of Interoceptive Awareness) (MEAN)
+QD_MAIA_NW,Score for not worrying subscale of the MAIA (Multi-dimensional Assesment of Interoceptive Awareness) (MEAN)
+QD_MAIA_AR,Score for attention regulation subscale of the MAIA (Multi-dimensional Assesment of Interoceptive Awareness) (MEAN)
+QD_MAIA_EA,Score for emotional awareness subscale of the MAIA (Multi-dimensional Assesment of Interoceptive Awareness) (MEAN)
+QD_MAIA_SR,Score for self regulation subscale of the MAIA (Multi-dimensional Assesment of Interoceptive Awareness) (MEAN)
+QD_MAIA_BL,Score for body listening subscale of the MAIA (Multi-dimensional Assesment of Interoceptive Awareness) (MEAN)
+QD_MAIA_T,Score for trusting subscale of the MAIA (Multi-dimensional Assesment of Interoceptive Awareness) (MEAN)
+QD_MW_D,Tendency to mindwander deliberately - subscale of MWDS - higher scores = greater tendency for deliberate MW (MEAN)
+QD_MW_S,Tendency to mindwander spontanously - subscale of MWDS - higher scores = greater tendency for spontaneous MW (MEAN)
+QD_RRS,Trait rumination - higher scores = greater tendency to ruminate (SUMMED) Range 22 - 110
+QD_SAI,State anxiety - higher scores = greater levels of anxiety when taking the questionnaire (MEAN)
+QD_TAI,Trait anxiety - higher scores = greater levels of trait anxiety (MEAN)
+QD_SCSR_PRI,Private Self Consciousness - higher scores = greater levels of private SC (SUMMED) Range 0 to 27
+QD_SCSR_PUB,Public Self Consciousness - higher scores = greater levels of public SC (SUMMED) Range 0 to 21
+QD_SCSR_SA,Social anxiety- higher scores = greater levels of social anxiety (SUMMED) Range 0 to 18
+QD_VVIQ,Vividness of visual imagery scale - lower scores = more vivid imagery (SUMMED) Range 16 - 80
+QD_WHO_QOL,Qualtiy of life and general health subscale of WHO (SUMMED) Range 2 to 10
+QD_WHO_PH,Physical health subscale of WHO (SUMMED) Range 7 to 35
+QD_WHO_P,Psychological health/well-being subscale of WHO (SUMMED) Range 6 to 30
+QD_WHO_SR,Social relationships subscale of WHO (SUMMED) Range 3 to 15
+QD_WHO_E,Environmental well-being subscale of WHO (SUMMED) Range 8 to 40
+QD_AL_SUB1,A level subject 1
+QD_AL_SUB2,A level subject 2
+QD_AL_SUB3,A level subject 3
+QD_AL_SUB4,A level subject 4
+QD_AL_SUB5,A level subject 5
+QD_AL_GRADE1,A level grade of subject 1
+QD_AL_GRADE2,A level grade of subject 2
+QD_AL_GRADE3,A level grade of subject 3
+QD_AL_GRADE4,A level grade of subject 4
+QD_AL_GRADE5,A level grade of subject 5
+DS_ACC_Forward,Digit span Proportion of forward trials that they got correct
+DS_NT_Forward,Digit span Number of forward trials that they did
+DS_NDigit_Forward,Digit span Number of digits in the last forward trial that they got correct
+DS_ACC_Backwards,Digit span Proportion of backwards trials that they got correct
+DS_NT_Backwards,Digit span Number of backwards trials that they did
+DS_NDigit_Backwards,Digit span Number of digits in the last backward trial that they got correct
+TS_CSI01.RT,Task switching Average reaction time of block 'cue-stimulus interval=0.1' (sec)
+TS_CSI09.RT,Task switching Average reaction time of block 'cue-stimulus interval=0.9' (sec)
+TS_CON.RT,Task switching Average reaction time of the last trials in set CONTROL [A-B-C] (sec)
+TS_INH.RT,Task switching Average reaction time of the last trials in set INHIBITORY [A-B-A] (sec)
+TS_REP.RT,Task switching Average reaction time of the last trials in set REPEAT [A-A] (sec)
+TS_UCS.RT,Task switching Average reaction time of the last trials in set UNCATEGORISED SWITCH [A-A-B] (sec)
+TS_MOT.RT,Task switching Average reaction time of task type MOTION (sec)
+TS_ORI.RT,Task switching Average reaction time of task type ORIENTATION (sec)
+TS_SIZE.RT,Task switching Average reaction time of task type SIZE (sec)
+TS_CSI01.ACC,Task switching Accuracy of block 'cue-stimulus interval=0.1'
+TS_CSI09.ACC,Task switching Accuracy of block 'cue-stimulus interval=0.9'
+TS_CON.ACC,Task switching Accuracy of the last trials in set CONTROL [A-B-C]
+TS_INH.ACC,Task switching Accuracy of the last trials in set INHIBITORY [A-B-A]
+TS_REP.ACC,Task switching Accuracy of the last trials in set REPEAT [A-A]
+TS_UCS.ACC,Task switching Accuracy of the last trials in set UNCATEGORISED SWITCH [A-A-B]
+TS_MOT.ACC,Task switching Accuracy of task type MOTION
+TS_ORI.ACC,Task switching Accuracy of task type ORIENTATION
+TS_SIZE.ACC,Task switching Accuracy of  task type SIZE
+TS_SWITCHCOST,Task switching Contrast SWITCHCOST = (TS_CON.RT + TS_UCS.RT) / 2 – TS_REP.RT (high=bad)
+TS_INHIBITION,Task switching Contrast INHIBITION = TS_INH.RT – TS_CON.RT (high=good)
+MWQ_WM.ACC,Mind-wandering Hard task (1 BACK) accuracy -averaged across sessions (3 sessions for cohort 1; 2 sessions for cohort 2 and ageing)
+MWQ_WM.RT,Mind-wandering Hard task (1 BACK) reaction time -averaged across sessions (3 sessions for cohort 1; 2 sessions for cohort 2 and ageing)
+MWQ_CRT.ACC,Mind-wandering Easy task (0 BACK) accuracy -averaged across sessions (3 sessions for cohort 1; 2 sessions for cohort 2 and ageing)
+MWQ_CRT.RT,Mind-wandering Easy task (0 BACK) reaction time -averaged across sessions (3 sessions for cohort 1; 2 sessions for cohort 2 and ageing)
+MT_ACC_100,Mountains task Percentage of correct trials for four mountains task (chance is 25% as this was a 4AFC)
+MT_RT_MSEC,Mountains task Reaction time of four mountains task on correct trials only
+MT_CONF_CORR,Mountains task The confidence of participants they they were correct on trials when they were correct
+MT_CONF_INCORR,Mountains task The confidence of participants that they were correct on trials where they were actually incorrect
+UUT_newspaper,Unusual Uses Task How many newspaper uniqie uses participants produced
+UUT_shoe,Unusual Uses Task How many show uniqie uses participants produced
+UUT_brick,Unusual Uses Task How many brick uniqie uses participants produced
+UUT_total,Unusual Uses Task total number of unique uses across all items
+PA_NoA,Paired Associates task (PA) - Number of repetition of Immediate recall to get 60% correct
+PA_Acc_DelRec,Paired Associates task (PA) - Proportion of correct Delayed recall_one session later
+PA_RT_DelRec,Paired Associates task (PA) - Reaction TimesDelayed recall (in milliseconds)
+PA_RT_CORR_DelRec,Paired Associates task (PA) - Reaction TimesDelayed recall - for correct responses(in milliseconds)
+PA_ConC_DelRec,Paired Associates task (PA) - Confidence Rating for correct
+PA_ConW_DelRec,Paired Associates task (PA) - Confidence Rating for wrong
+RJT_pw_ACC_Strong,Semantics Relatedness Judgement Task (RJT) - (picture-word) Proportion of correct responses to Strong Associates
+RJT_pw_ACC_Weak,Semantics Relatedness Judgement Task (RJT) - (picture-word) Proportion of correct responses to Weak Associates
+RJT_pw_RT_Strong,Semantics Relatedness Judgement Task (RJT) - (picture-word) Reaction Times Strong Associates (in milliseconds)
+RJT_pw_RT_Weak,Semantics Relatedness Judgement Task (RJT) - (picture-word) Reaction Times Weak Associates (in milliseconds)
+RJT_pw_ACC_subset,Semantics Relatedness Judgement Task (RJT) - (picture-word) Proportion of correct responses for a subset of trials of RJT pw to compare with RTJ pp and ww
+RJT_pw_RT_subset,Semantics Relatedness Judgement Task (RJT) - (picture-word) Reaction Times subset (in milliseconds)
+RJT_pp_ACC,Semantics Relatedness Judgement Task (RJT) - (picture-picture) Proportion of correct responses
+RJT_pp_RT,Semantics Relatedness Judgement Task (RJT) - (picture-picture) Reaction Times (in milliseconds)
+RJT_ww_ACC,Semantics Relatedness Judgement Task (RJT) - (word-word) Proportion of correct responses
+RJT_ww_RT,Semantics Relatedness Judgement Task (RJT) - (word-word) Reaction Times
+PMT_ACC_General,Semantics Picture Matching Task (PMT) - Proportion of correct responses to General Level of identification
+PMT_ACC_Specific,Semantics Picture Matching Task (PMT) - Proportion of correct responses to Specific Level of identification
+PMT_RT_General,Semantics Picture Matching Task (PMT) - Reaction Times General Level (in milliseconds)
+PMT_RT_Specific,Semantics Picture Matching Task (PMT) - Reaction Times Specific Level (in milliseconds)
+FMT_ACC,Semantics Figure Matching Task (FMT) - Proportion of correct responses
+FMT_RT,Semantics Figure Matching Task (FMT) - Reaction Times (in milliseconds)
+Feat_ACC,Semantics Feature Matching Tassk (Feat) - Accuracy
+Feat_RT,Semantics Feature Matching Tassk (Feat) - Reaction Times (in milliseconds)
+PNT_ACC,Semantics Picture Naming Task (PNT) - Accuracy
+PNT_RT,Semantics Picture Naming Task (PNT) - Reaction time (correct trials)
+VFT_L_CpM,Semantics Verbal Fluency Task (VFT) - Letter correct responses per minute
+VFT_C_CpM,Semantics Verbal Fluency Task (VFT) - Category correct responses per minute
+RAPM_CORR_T,Ravens Number of correct trials
+RAPM_ATT_T,"Ravens Number of trials attempted (self paced experiment, participants have to complete as many trials as possible in 20 minutes)"
+RAPM_PROP_ACC_ATT,Ravens Proportion of correct trials out of the number attempted
+RAPM_PROP_ACC,Ravens Proportion of correct trials out of 36 for cohort 1 and out of 18 for cohort 2 and ageing
+RME_ACC,Reading the mind in the eyes test - proportion accuracy (mean correct)
+RME_RT,Reading the mind in the eyes test - reaction time for correct trials
+SS_ACC,Social semantic relatedness task - proportion accuracy (mean correct)
+SS_RT,Social semantic relatedness task - reaction time for correct trials
+Metacognition_MT_ACC,Metacognition Mountains task - accuracy (aggregated) - out of 1
+Metacognition_MT_CONF,Metacognition Mountains task - confidence (aggregated) - out of 1
+Metacognition_MT_ROC,Metacognition Mountains task - ROC - higher values = greater metacognitive accuracy
+Metacognition_PA_ACC,Metacognition Paired associates delayed recall - accuracy (aggregated) - out of 1
+Metacognition_PA_CONF,Metacognition Paired associates delayed recall - confidence (aggregated) - range from 1-7
+Metacognition_PA_ROC,Metacognition Paried associates delayed recall - ROC - higher scores = greater metacognitive acccuracy
+Metacognition_SEM_ACC,Metacognition Semantic task - accuracy (aggregated) - out of 1
+Metacognition_SEM_CONF,Metacognition Semantic task - confidence (aggregated) - range from 1-7
+Metacognition_SEM_ROC,Metacognition Semantic task - ROC - higher values = greater metacognitive accuracy
+AMI_INT,Autobiographical Memory Interview - Average number of INTERNAL (Episodic) details across scenarios (6 scenarios for cohort 1; 5 scenarios for cohort 2/ageing)
+AMI_EXT,Autobiographical Memory Interview - Average number of EXTERNAL (Semantic) details across scenarios (6 scenarios for cohort 1; 5 scenarios for cohort 2/ageing)
+AMI_RICHNESS,Autobiographical Memory Interview - Average number of RICHNESS across scenarios - higher scores = greater rated richness
+AMI_EVENT,Autobiographical Memory Interview - Average number of EVENT details across scenarios - higher scores = more event details in descriptions
+AMI_PLACE,Autobiographical Memory Interview - Average number of PLACE details across scenarios - higher scores = more place details in descriptions
+AMI_TIME,Autobiographical Memory Interview - Average number of TEMPORAL details across scenarios - higher scores = more time details in descriptions
+AMI_PER,Autobiographical Memory Interview - Average number of PERCEPTUAL details across scenarios - higher scores = more perceptual details in descriptions
+AMI_EMO,Autobiographical Memory Interview - Average number of EMOTIONAL/THOUGHT details across scenarios - higher scores = more emotional/thought details in descriptions
+AMI_EVENTEXT,Autobiographical Memory Interview - Average number of EXTERNAL EVENT (i.e. details of events not relevant to scenario being described) across scenarios - higher scores = more  external event details in descriptions
+AMI_SEM,Autobiographical Memory Interview - Average number of SEMANTIC (general knowledge) details across scenarios - higher scores = more semantic details in descriptions
+AMI_REP,Autobiographical Memory Interview - Average number of REPETITION across scenarios - higher scores = more repetition in descriptions
+AMI_OTHER,Autobiographical Memory Interview - Average number of OTHER details (things that didnt fit in coding categories across scenarios) - higher scores = more repetition in descriptions

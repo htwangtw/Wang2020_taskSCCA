@@ -1,0 +1,22 @@
+Number of participants originally                      :  207
+Female:132
+Number of participants selected                        :  197
+Female:126
+178 participants with imaging data that passes the quality check
+Data path:
+    FC_path : ./data/processed/Craddock100_FC_prepro.pkl
+     MOT_path :./data/raw/CS_MeanFD.csv 
+     data_path :./data/processed/CS_Tasks_selectedvar_impute.pkl 
+     prepro :./data/processed/df_master_p178.pkl 
+ 
+Number of participants originally                      :  207
+Female:132
+Number of participants selected                        :  197
+Female:126
+178 participants with imaging data that passes the quality check
+Data path:
+    FC_path : ./data/interim/Craddock100_FC_prepro.pkl
+     MOT_path :./data/raw/CS_MeanFD.csv 
+     data_path :./data/interim/CS_Tasks_selectedvar_impute.pkl 
+     prepro :./data/interim/df_master_p178.pkl 
+ 

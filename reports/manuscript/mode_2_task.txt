@@ -1,0 +1,13 @@
+Digit Span	0.3993663804243405
+Category Fluency	0.5005175571236369
+Picture Naming	-0.5925534548987045
+TS-Flexibility	0.4557530048362001
+TS-Inhibition	0.0
+Four Mountains	0.0
+Unusual Uses	0.0
+RAPM	-0.044263072431619324
+Paired Associate	0.0
+Semantics - Strength	-0.0
+Semantics - Modality	0.0
+Semantics - Specificity	0.0
+Semantics - Feature Matching	0.17087729892248607

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1024px" height="768px" viewBox="0 0 1024 768">
+<clipPath id="cp1">
+<path d="M 0,0 L 1024,0 L1024,768 L 0,768 z M 0,0 L 1280,0 L 1280,960 L 0,960 z" fill-rule="evenodd">
+</path>
+</clipPath>
+<g clip-path="url(#cp1)">
+</g>
+<rect x="0" y="0" width="1280" height="960" opacity="1" fill="rgb(250,251,255)" fill-opacity="0" stroke="none">
+</rect>
+<text x="-358.822021484375" y="5.31327104" style="font: normal 53.13271040000001px Arial,Helvetica,sans-serif" text-anchor="start" dy="21.001071304347832" opacity="1" fill="#67001f" stroke="none" transform="translate(512, 382) rotate(-360)">reward based decision making</text>
+<text x="-194.85321044921875" y="5.31327104" style="font: normal 53.13271040000001px Arial,Helvetica,sans-serif" text-anchor="start" dy="21.001071304347832" opacity="1" fill="#a5cee3" stroke="none" transform="translate(522, 422) rotate(-15120.000000000002)">working memory</text>
+<text x="-163.89251708984375" y="3.984953279999999" style="font: normal 39.849532800000006px Arial,Helvetica,sans-serif" text-anchor="start" dy="15.750803478260874" opacity="1" fill="#f8bda1" stroke="none" transform="translate(502, 346) rotate(-2160)">emotion regulation</text>
+<text x="-285.64959716796875" y="3.984953279999999" style="font: normal 39.849532800000006px Arial,Helvetica,sans-serif" text-anchor="start" dy="15.750803478260874" opacity="1" fill="#b3d6e8" stroke="none" transform="translate(490, 316)">motion and visuospatial memory</text>
+<text x="-132.88424682617188" y="3.984953279999999" style="font: normal 39.849532800000006px Arial,Helvetica,sans-serif" text-anchor="start" dy="15.750803478260874" opacity="1" fill="#c2ddec" stroke="none" transform="translate(512, 462) rotate(-9360.000000000002)">visual attention</text>
+<text x="-149.45831298828125" y="3.984953279999999" style="font: normal 39.849532800000006px Arial,Helvetica,sans-serif" text-anchor="start" dy="15.750803478260874" opacity="1" fill="#c5dfec" stroke="none" transform="translate(492, 282) rotate(-9000)">verbal semantics</text>
+<text x="-83.43437957763672" y="2.65663552" style="font: normal 26.566355200000004px Arial,Helvetica,sans-serif" text-anchor="start" dy="10.500535652173916" opacity="1" fill="#c2ddec" stroke="none" transform="translate(530, 490) rotate(-6839.999999999999)">cued attention</text>
+<text x="-87.09806823730469" y="2.65663552" style="font: normal 26.566355200000004px Arial,Helvetica,sans-serif" text-anchor="start" dy="10.500535652173916" opacity="1" fill="#c0dceb" stroke="none" transform="translate(542, 508) rotate(-10440)">eye movement</text>
+<text x="-76.7554931640625" y="2.65663552" style="font: normal 26.566355200000004px Arial,Helvetica,sans-serif" text-anchor="start" dy="10.500535652173916" opacity="1" fill="#c5dfec" stroke="none" transform="translate(490, 258) rotate(-13320)">sesnorimotor</text>
+<text x="-44.30120849609375" y="2.65663552" style="font: normal 26.566355200000004px Arial,Helvetica,sans-serif" text-anchor="start" dy="10.500535652173916" opacity="1" fill="#cae1ee" stroke="none" transform="translate(530, 530) rotate(-3959.9999999999995)">reading</text>
+<text x="-142.4486541748047" y="2.65663552" style="font: normal 26.566355200000004px Arial,Helvetica,sans-serif" text-anchor="start" dy="10.500535652173916" opacity="1" fill="#d2e6f0" stroke="none" transform="translate(488, 234) rotate(-5760)">multisensory processing</text>
+<text x="-115.15592956542969" y="2.65663552" style="font: normal 26.566355200000004px Arial,Helvetica,sans-serif" text-anchor="start" dy="10.500535652173916" opacity="1" fill="#cfe4ef" stroke="none" transform="translate(536, 554) rotate(-12959.999999999998)">auditory processing</text>
+<text x="-114.41670227050781" y="2.65663552" style="font: normal 26.566355200000004px Arial,Helvetica,sans-serif" text-anchor="start" dy="10.500535652173916" opacity="1" fill="#cfe4ef" stroke="none" transform="translate(484, 210) rotate(-14400)">numerical cognition</text>
+<text x="-52.046775817871094" y="1.32831776" style="font: normal 13.283177600000002px Arial,Helvetica,sans-serif" text-anchor="start" dy="5.250267826086958" opacity="1" fill="#d5e7f1" stroke="none" transform="translate(392, 486) rotate(-2880)">object recognition</text>
+<text x="-47.235382080078125" y="1.32831776" style="font: normal 13.283177600000002px Arial,Helvetica,sans-serif" text-anchor="start" dy="5.250267826086958" opacity="1" fill="#d7e8f1" stroke="none" transform="translate(612, 262) rotate(-10080)">resolve conflicts</text>
+</svg>

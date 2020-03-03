@@ -1,0 +1,235 @@
+Name,Label
+RNO,RNO - R number (YNIC identifier)
+SIDNO,SIDNO - scanned order (Cohort 1)
+IDNO,IDNO - behavioural testing order
+INDEX,INDEX - Indicates what project this participant was tested from (1=CS1; 2=CS2)
+AGE,Age
+GENDER,Gender(0=male;1=female)
+EDUCATION,Level of education(1=Alevel;2=UG;3=PG)
+HANDEDNESS,Handedness(1=Right;2=left)
+MARTIAL,Marital Status(1=single;2=married;3=Living as Married;4=Divorced/separated;5=Widowed)
+ILL,Do you consider yourself ill?(1=Yes; 2=No)
+QD_EMI1,Time orientation of mental imagery (1 = always past 7 = always future) Evaluation of Mental Imagery
+QD_EMI2,Emotional valence of mental imagery (1 = always negative 7 = always positive)  Evaluation of Mental Imagery
+QD_EMI3,Vividness of mental imagery (1 = not vivid 7 = extrememly vivid)  Evaluation of Mental Imagery
+QD_EMI4,Visual perspective of mental imagery (1 = 3rd person perspective 2 = 1st person perspective)  Evaluation of Mental Imagery
+QD_ADHD,Average ADHD score across all 18 items
+QD_ADHD_A,Average ADHD score for Part A (Q1-6)
+QD_ADHD_B,Average ADHD score for Part A (Q7-18)
+QD_AQ_SOCIAL,AQ (Autism Spectrum Quotient) score for social skill dimension (SUMMED) Range 1 - 10
+QD_AQ_SWITCH,AQ (Autism Spectrum Quotient) score for attention switching dimension (SUMMED) Range 1 - 10
+QD_AQ_DETAIL,AQ (Autism Spectrum Quotient) score for attention to detail dimension (SUMMED) Range 1 - 10
+QD_AQ_COMM,AQ (Autism Spectrum Quotient) score for communication dimension (SUMMED) Range 1 - 10
+QD_AQ_IM,AQ (Autism Spectrum Quotient) score for imagination dimension (SUMMED) Range 1 - 10
+QD_AQ,Total AQ (Autism Spectrum Quotient) score (SUMMED) cut-off = 32+
+QD_BFI_E,Extraversion score BFI (Big Five Inventory) (MEAN)
+QD_BFI_A,Agreeableness score BFI (Big Five Inventory) (MEAN)
+QD_BFI_C,Conscientiousness score BFI (Big Five Inventory) (MEAN)
+QD_BFI_N,Neuroticism score BFI (Big Five Inventory) (MEAN)
+QD_BFI_O,Openness to experience score BFI (Big Five Inventory) (MEAN)
+QD_BMS_AS,Alternative search subscale score of the brief maximization scale (MEAN)
+QD_BMS_DD,Decision difficulty subscale score of the brief maximization scale (MEAN)
+QD_BMS_HS,High standards subscale score of the brief maximization scale
+QD_CES_D,Depression score (SUMMED) - higher scores = more depression
+QD_DAC,Dyslexia score - higher scores = greater dyslexia - cut-off >45 (SUMMED)
+QD_IPI_DD,Daydreaming frequency of IPI - higher scores = greater daydreaming frequency (SUMMED)
+QD_IPI_ND,Night dreaming frequency of IPI - higher scores = greater night dreaming frequency (SUMMED)
+QD_MAAS,Mindful attention - higher scores = greater mindful atttention (SUMMED)
+QD_MAIA_N,Score for noticing subscale of the MAIA (Multi-dimensional Assesment of Interoceptive Awareness) (MEAN)
+QD_MAIA_ND,Score for not distracting subscale of the MAIA (Multi-dimensional Assesment of Interoceptive Awareness) (MEAN)
+QD_MAIA_NW,Score for not worrying subscale of the MAIA (Multi-dimensional Assesment of Interoceptive Awareness) (MEAN)
+QD_MAIA_AR,Score for attention regulation subscale of the MAIA (Multi-dimensional Assesment of Interoceptive Awareness) (MEAN)
+QD_MAIA_EA,Score for emotional awareness subscale of the MAIA (Multi-dimensional Assesment of Interoceptive Awareness) (MEAN)
+QD_MAIA_SR,Score for self regulation subscale of the MAIA (Multi-dimensional Assesment of Interoceptive Awareness) (MEAN)
+QD_MAIA_BL,Score for body listening subscale of the MAIA (Multi-dimensional Assesment of Interoceptive Awareness) (MEAN)
+QD_MAIA_T,Score for trusting subscale of the MAIA (Multi-dimensional Assesment of Interoceptive Awareness) (MEAN)
+QD_MW_D,Tendency to mindwander deliberately - subscale of MWDS - higher scores = greater tendency for deliberate MW (MEAN)
+QD_MW_S,Tendency to mindwander spontanously - subscale of MWDS - higher scores = greater tendency for spontaneous MW (MEAN)
+QD_RRS,Trait rumination - higher scores = greater tendency to ruminate (SUMMED) Range 22 - 110
+QD_SAI,State anxiety - higher scores = greater levels of anxiety when taking the questionnaire (MEAN)
+QD_TAI,Trait anxiety - higher scores = greater levels of trait anxiety (MEAN)
+QD_SCSR_PRI,Private Self Consciousness - higher scores = greater levels of private SC (SUMMED) Range 0 to 27
+QD_SCSR_PUB,Public Self Consciousness - higher scores = greater levels of public SC (SUMMED) Range 0 to 21
+QD_SCSR_SA,Social anxiety- higher scores = greater levels of social anxiety (SUMMED) Range 0 to 18
+QD_VISQ_C,Score for condensed subscale of the varieties of inner speech (MEAN)
+QD_VISQ_E,Score for evaluative subscale of the varieties of inner speech (MEAN)
+QD_VISQ_D,Score for dialogic subscale of the varieties of inner speech (MEAN)
+QD_VISQ_O,Score for other people subscale of the varieties of inner speech (MEAN)
+QD_VISQ_P,Score for positive/regulatory subscale of the varieties of inner speech (MEAN)
+QD_VVIQ,Vividness of visual imagery scale - lower scores = more vivid imagery (SUMMED) Range 16 - 80
+QD_WHO_QOL,Qualtiy of life and general health subscale of WHO (SUMMED) Range 2 to 10
+QD_WHO_PH,Physical health subscale of WHO (SUMMED) Range 7 to 35
+QD_WHO_P,Psychological health/well-being subscale of WHO (SUMMED) Range 6 to 30
+QD_WHO_SR,Social relationships subscale of WHO (SUMMED) Range 3 to 15
+QD_WHO_E,Environmental well-being subscale of WHO (SUMMED) Range 8 to 40
+QD_REI_RA,Rational ability subscale of the rational experiential inventory (MEAN)
+QD_REI_RE,Rational engagement subscale of the rational experiential inventory (MEAN)
+QD_REI_EA,Experiential ability subscale of the rational experiential inventory (MEAN)
+QD_REI_EE,Experiential engagement subscale of the rational experiential inventory (MEAN)
+DAF_Mental,Describe a friend Proportion of mental comments (percentage) (DV)
+DAF_Physical,Describe a friend Proportion of physical comments (percentage) (DV)
+DAF_Relationship,Describe a friend Proportion of relationship comments (percentage) (DV)
+DAF_Behavioural,Describe a friend Proportion of behavioural comments (percentage) (DV)
+DAF_Self_Reference,Describe a friend Proportion of self-reference comments (percentage) (DV)
+DAF_General,Describe a friend Proportion of general comments (percentage) (DV)
+DS_ACC_Forward,Digit span Proportion of forward trials that they got correct
+DS_NT_Forward,Digit span Number of forward trials that they did
+DS_NDigit_Forward,Digit span Number of digits in the last forward trial that they got correct
+DS_ACC_Backwards,Digit span Proportion of backwards trials that they got correct
+DS_NT_Backwards,Digit span Number of backwards trials that they did
+DS_NDigit_Backwards,Digit span Number of digits in the last backward trial that they got correct
+IOS_Others,Inclusion of others in self Level of Intersection with Others (1-7 scale) (DV)(1=low intersection of circles; 7=high intersection of circles)
+IOS_Others_RT,Inclusion of others in self Level of Intersection with Others Response Time (Seconds) (DV)
+IOS_BF,Inclusion of others in self Level of Intersection with Best Friend (1-7 scale) (DV)(1=low intersection of circles; 7=high intersection of circles)
+IOS_BF_RT,Inclusion of others in self Level of Intersection with Best Friend Response Time (Seconds) (DV)
+IOS_LG,Inclusion of others in self Level of Intersection with Lady Gaga (1-7 scale) (DV)(1=low intersection of circles; 7=high intersection of circles)
+IOS_LG_RT,Inclusion of others in self Level of Intersection with Lady Gaga Response Time (Seconds) (DV)
+TS_CSI01.RT,Task switching Average reaction time of block 'cue-stimulus interval=0.1' (sec)
+TS_CSI09.RT,Task switching Average reaction time of block 'cue-stimulus interval=0.9' (sec)
+TS_CON.RT,Task switching Average reaction time of the last trials in set CONTROL [A-B-C] (sec)
+TS_INH.RT,Task switching Average reaction time of the last trials in set INHIBITORY [A-B-A] (sec)
+TS_REP.RT,Task switching Average reaction time of the last trials in set REPEAT [A-A] (sec)
+TS_UCS.RT,Task switching Average reaction time of the last trials in set UNCATEGORISED SWITCH [A-A-B] (sec)
+TS_MOT.RT,Task switching Average reaction time of task type MOTION (sec)
+TS_ORI.RT,Task switching Average reaction time of task type ORIENTATION (sec)
+TS_SIZE.RT,Task switching Average reaction time of task type SIZE (sec)
+TS_CSI01.ACC,Task switching Accuracy of block 'cue-stimulus interval=0.1'
+TS_CSI09.ACC,Task switching Accuracy of block 'cue-stimulus interval=0.9'
+TS_CON.ACC,Task switching Accuracy of the last trials in set CONTROL [A-B-C]
+TS_INH.ACC,Task switching Accuracy of the last trials in set INHIBITORY [A-B-A]
+TS_REP.ACC,Task switching Accuracy of the last trials in set REPEAT [A-A]
+TS_UCS.ACC,Task switching Accuracy of the last trials in set UNCATEGORISED SWITCH [A-A-B]
+TS_MOT.ACC,Task switching Accuracy of task type MOTION
+TS_ORI.ACC,Task switching Accuracy of task type ORIENTATION
+TS_SIZE.ACC,Task switching Accuracy of  task type SIZE
+TS_SWITCHCOST,Task switching Contrast SWITCHCOST = (TS_CON.RT + TS_UCS.RT) / 2 - TS_REP.RT
+TS_INHIBITION,Task switching Contrast INHIBITION = TS_INH.RT - TS_CON.RT
+MT_ACC_100,Mountains task Percentage of correct trials for four mountains task (chance is 25% as this was a 4AFC)
+MT_RT_MSEC,Mountains task Reaction time of four mountains task on correct trials only
+MT_CONF_CORR,Mountains task The confidence of participants they they were correct on trials when they were correct
+MT_CONF_INCORR,Mountains task The confidence of participants that they were correct on trials where they were actually incorrect
+MT_EFF,Mountains task - Overall efficiency
+UUT_V,Unusual Uses Task There are 2 versions of the task
+UUT_newspaper,Unusual Uses Task How many newspaper uniqie uses participants produced
+UUT_shoe,Unusual Uses Task How many show uniqie uses participants produced
+UUT_brick,Unusual Uses Task How many brick uniqie uses participants produced
+UUT_total,Unusual Uses Task total number of unique uses across all items
+PFT_ACC,Paper folding task Proportion of trials that they got correct
+PFT_M_RT_CORR,Paper folding task average response time of correct trials
+PFT_M_RT_INCORR,Paper folding task average response time of incorrect trials
+PFT_CONF_CORR,Paper folding task Proportion of times they were correct and highly confindent
+PFT_NCONF_INCORR,Paper folding task Proportion of time they were wrong and had low confidence
+PFT_CONF_INCORR,Paper folding task Proportion of times they were wrong and highly confident in their response
+PFT_NCONF_CORR,Paper folding task Proportion of times they were right but had low confidence in their response
+PFT_METACOG_NONE,Paper folding task Proportion of times the metacognition judgement was missing
+SEM_Version,Semantics task V1: confidence scale 1-7 - V2: confidence scale 1-6
+PA_Acc_ImmRec,Paired Associates task (PA) - Proportion of correct Immediate recall
+PA_RT_ImmRec,Paired Associates task (PA) - Reaction Times Immediate recalll (in miliseconds)
+PA_NoA,Paired Associates task (PA) - Number of repetition of Immediate recall to get 60% correct
+PA_Acc_DelRec,Paired Associates task (PA) - Proportion of correct Delayed recall_one session later
+PA_RT_DelRec,Paired Associates task (PA) - Reaction TimesDelayed recall (in milliseconds)
+PA_RT_CORR_DelRec,Paired Associates task (PA) - Reaction TimesDelayed recall - for correct responses(in milliseconds)
+PA_ConC_DelRec,Paired Associates task (PA) - Confidence Rating for correct
+PA_ConW_DelRec,Paired Associates task (PA) - Confidence Rating for wrong
+PA_EFF_IMMREC,Paired associates task - Overall efficiency of immediate recall
+PA_EFF_DELREC,Paired associates task - Overall efficiency of delayed recall
+RJT_V,Semantics Relatedness Judgement Task (RJT) version 2: confidence scale added to weak associates pw
+RJT_pw_ACC_Strong,Semantics Relatedness Judgement Task (RJT) - (picture-word) Proportion of correct responses to Strong Associates
+RJT_pw_ACC_Weak,Semantics Relatedness Judgement Task (RJT) - (picture-word) Proportion of correct responses to Weak Associates
+RJT_pw_RT_Strong,Semantics Relatedness Judgement Task (RJT) - (picture-word) Reaction Times Strong Associates (in milliseconds)
+RJT_pw_RT_Weak,Semantics Relatedness Judgement Task (RJT) - (picture-word) Reaction Times Weak Associates (in milliseconds)
+RJT_pw_ACC_subset,Semantics Relatedness Judgement Task (RJT) - (picture-word) Proportion of correct responses for a subset of trials of RJT pw to compare with RTJ pp and ww
+RJT_pw_RT_subset,Semantics Relatedness Judgement Task (RJT) - (picture-word) Reaction Times subset (in milliseconds)
+RJT_pp_ACC,Semantics Relatedness Judgement Task (RJT) - (picture-picture) Proportion of correct responses
+RJT_pp_RT,Semantics Relatedness Judgement Task (RJT) - (picture-picture) Reaction Times (in milliseconds)
+RJT_ww_ACC,Semantics Relatedness Judgement Task (RJT) - (word-word) Proportion of correct responses
+RJT_ww_RT,Semantics Relatedness Judgement Task (RJT) - (word-word) Reaction Times
+PMT_ACC_General,Semantics Picture Matching Task (PMT) - Proportion of correct responses to General Level of identification
+PMT_ACC_Specific,Semantics Picture Matching Task (PMT) - Proportion of correct responses to Specific Level of identification
+PMT_RT_General,Semantics Picture Matching Task (PMT) - Reaction Times General Level (in milliseconds)
+PMT_RT_Specific,Semantics Picture Matching Task (PMT) - Reaction Times Specific Level (in milliseconds)
+FMT_ACC,Semantics Figure Matching Task (FMT) - Proportion of correct responses
+FMT_RT,Semantics Figure Matching Task (FMT) - Reaction Times (in milliseconds)
+Feat_ACC,Semantics Feature Matching Tassk (Feat) - Accuracy
+Feat_RT,Semantics Feature Matching Tassk (Feat) - Reaction Times (in milliseconds)
+PNT_ACC,Semantics Picture Naming Task (PNT) - Accuracy
+VFT_L_ACC,Semantics Verbal Fluency Task (VFT) - Letter accuracy
+VFT_L_CpM,Semantics Verbal Fluency Task (VFT) - Letter correct responses per minute
+VFT_C_ACC,Semantics Verbal Fluency Task (VFT) - Category accuracy
+VFT_C_CpM,Semantics Verbal Fluency Task (VFT) - Category correct responses per minute
+RAPM_CORR_T,Ravens Number of correct trials
+RAPM_ATT_T,"Ravens Number of trials attempted (self paced experiment, participants have to complete as many trials as possible in 20 minutes)"
+RAPM_PROP_ACC_ATT,Ravens Proportion of correct trials out of the number attempted
+RAPM_PROP_ACC,Ravens Proportion of correct trials out of 36 for cohort 1 and out of 18 for cohort 2 and ageing
+RAT_PROP_ACC,Remote Associates Test Proportion of correct responses
+RAT_RT_SEC,Remote Associates Test Response time (seconds) - all trials
+RAT_SD_RT_CORR_All,Remote Associates Test Standard Deviation of Response time (seconds) - all correct trials
+RAT_PROP_AllT_Insight,Remote Associates Test Proportion of all trials that participant indicated they used insight
+RAT_PROP_AllCORR_Insight,Remote Associates Test Proportion of correct trials that participant indicated they used insight
+RAT_PROP_AllINCORR_Insight,Remote Associates Test Proportion of incorrect trials that participant indicated they used insight
+RAT_PROP_ACC_EasyT,Remote Associates Test Proportion of accurate Easy trials (n=10)
+RAT_RT_SEC_CORR_EasyT,Remote Associates Test Reaction time (in seconds) for all correct Easy trials (n=10)
+RAT_SD_RT_CORR_EasyT,Remote Associates Test Standard deviation of the RT for correct Easy trials (n=10)
+RAT_PROP_ACC_MediumT,Remote Associates Test Proportion of accurate Medium trials (n=10)
+RAT_RT_SEC_CORR_MediumT,Remote Associates Test Reaction time (in seconds) for all correct Medium trials (n=10)
+RAT_SD_RT_CORR_MediumT,Remote Associates Test Standard deviation of the RT for correct Medium trials (n=10)
+RAT_PROP_ACC_HardT,Remote Associates Test Proportion of accurate Hard trials (n=10)
+RAT_RT_SEC_CORR_HardT,Remote Associates Test Reaction time (in seconds) for all correct Hard trials (n=10)
+RAT_SD_RT_CORR_HardT,Remote Associates Test Standard deviation of the RT for correct Hard trials (n=10)
+TOWRE_Spoonerism_Missing_soundfiles,0=sound files ok;1=sound files absent;2=sound files recording failed;
+Spoonerism_Name_Acc,Spoonerism Proportion spoonerised names correct out of 12
+Spoonerism_Pseudoword_Acc,Spoonerism Proportion spoonerised pseudowords correct out of 12
+Spoonerism_Name_Adjusted_AvgRT,Spoonerism Average Spoonerised Name RT for correct responses that were not cut off
+Spoonerism_Pseudoword_Adjusted_AvgRT,Spoonerism Average Spoonerised Pseudoword RT for correct responses that were not cut off
+Spoonerism_Name_Adjusted_Efficiency,Spoonerism Name Inflated RT (proportion of responses that were not cut off and correct divided by Adjusted RT)
+Spoonerism_Pseudoword_Adjusted_Efficiency,Spoonerism Pseudoword Inflated RT (proportion of responses that were not cut off and correct divided by Adjusted RT)
+Spoonerism_Name_RTCutOff,0=No sound files cut-off: RTs correct;1=Some sound files cut off: Adjusted RT necessary
+Spoonerism_Pseudoword_RTCutOff,0=No sound files cut-off: RTs correct;1=Some sound files cut off: Adjusted RT necessary
+Other_spoonerism_problem,0=responded appropriately;1=misunderstood
+TOWRE_word_scaled_score,TOWRE Word age-scaled total (the oldest bracket is 17-24 so the scaling will be the same for everyone!)
+TOWRE_word_rate,TOWRE Nonword rate - Words correct divided by time taken
+TOWRE_nonword_scaled_score,TOWRE Nonword age-scaled total (the oldest bracket is 17-24 so the scaling will be the same for everyone!)
+TOWRE_nonword_rate,TOWRE Nonword rate - nonwords correct divided by time taken
+TOWRE_problem,0=no problem;1=Whispered/didn't speak
+Spoonerisms_Overall_Correct,Spoonerism Proportion correct of all Spoonerism trials *use*
+WordRate_minus_NonwordRate,TOWRE word rate minus TOWRE nonword rate
+WordRate_pc_NonwordRate,TOWRE word rate as a percentage of nonword rate
+NonwordRate_pc_WordRate,TOWRE nonword rate as a percentage of word rate *use* higher value = more phonological reader; lower value = more lexical reader
+Savill_NEWSEMFAC,"(calculated by Nicola Savil) PCA_SEMANTIC_Factor_Based on accuracy in RJT pw, ww, PMT, FEAT, PNT"
+Savill_NEWPHONFAC,"(calculated by Nicola Savil) PCA_PHONOLOGICAL_Factor_Based on accuracy in Digit Fwd, Spoonerisms, TOWRE nonword"
+F_congruent_RT,Flanker - RT of congruent trials
+F_incongruent_RT,Flanker - RT of incongruent trials
+F_neutral_RT,Flanker - RT of neutural trials
+F_congruent_ACC,Flanker - ACC of congruent trials
+F_incongruent_ACC,Flanker - ACC of incongruent trials
+F_neutral_ACC,Flanker - ACC of neutural trials
+F_RT,Flanker - RT of all the trials
+F_ACC,Flanker - ACC of all the trials
+TOL_ACC,Tower of London Task - proportion accuracy (mean correct)
+TOL_RT,Tower of London Task - reaction time for correct trials
+RME_ACC,Reading the mind in the eyes test - proportion accuracy (mean correct)
+RME_RT,Reading the mind in the eyes test - reaction time for correct trials
+SS_ACC,Social semantic relatedness task - proportion accuracy (mean correct)
+SS_RT,Social semantic relatedness task - reaction time for correct trials
+AMI_INT,Autobiographical Memory Interview - Average number of INTERNAL (Episodic) details across scenarios (6 scenarios for cohort 1; 5 scenarios for cohort 2/ageing)
+AMI_EXT,Autobiographical Memory Interview - Average number of EXTERNAL (Semantic) details across scenarios (6 scenarios for cohort 1; 5 scenarios for cohort 2/ageing)
+AMI_RICHNESS,Autobiographical Memory Interview - Average number of RICHNESS across scenarios - higher scores = greater rated richness
+AMI_EVENT,Autobiographical Memory Interview - Average number of EVENT details across scenarios - higher scores = more event details in descriptions
+AMI_PLACE,Autobiographical Memory Interview - Average number of PLACE details across scenarios - higher scores = more place details in descriptions
+AMI_TIME,Autobiographical Memory Interview - Average number of TEMPORAL details across scenarios - higher scores = more time details in descriptions
+AMI_PER,Autobiographical Memory Interview - Average number of PERCEPTUAL details across scenarios - higher scores = more perceptual details in descriptions
+AMI_EMO,Autobiographical Memory Interview - Average number of EMOTIONAL/THOUGHT details across scenarios - higher scores = more emotional/thought details in descriptions
+AMI_EVENTEXT,Autobiographical Memory Interview - Average number of EXTERNAL EVENT (i.e. details of events not relevant to scenario being described) across scenarios - higher scores = more  external event details in descriptions
+AMI_SEM,Autobiographical Memory Interview - Average number of SEMANTIC (general knowledge) details across scenarios - higher scores = more semantic details in descriptions
+AMI_REP,Autobiographical Memory Interview - Average number of REPETITION across scenarios - higher scores = more repetition in descriptions
+AMI_OTHER,Autobiographical Memory Interview - Average number of OTHER details (things that didnt fit in coding categories across scenarios) - higher scores = more repetition in descriptions
+NART_ATTEMPTED,National Adult Reading Test (NART) - Number of words attempted (out of 50)
+NART_CORRECT,National Adult Reading Test (NART) - Number of words pronounced correctly
+NART_INCORRECT,National Adult Reading Test (NART) - Number of words pronounced incorrectly
+NART_FULL_IQ,National Adult Reading Test (NART) - Conversion of NART score into the full IQ score according to the WAIS
+NART_VERBAL_IQ,National Adult Reading Test (NART) - Conversion of NART score into the extimated verbal IQ score according to the WAIS
+NART_PERFORMANCE_IQ,National Adult Reading Test (NART) - Conversion of NART score into the estimated performace IQ score according to the WAIS
+MWQ_WM.ACC,Mind-wandering Hard task (1 BACK) accuracy -averaged across sessions (3 sessions for cohort 1; 2 sessions for cohort 2 and ageing)
+MWQ_WM.RT,Mind-wandering Hard task (1 BACK) reaction time -averaged across sessions (3 sessions for cohort 1; 2 sessions for cohort 2 and ageing)
+MWQ_CRT.ACC,Mind-wandering Easy task (0 BACK) accuracy -averaged across sessions (3 sessions for cohort 1; 2 sessions for cohort 2 and ageing)
+MWQ_CRT.RT,Mind-wandering Easy task (0 BACK) reaction time -averaged across sessions (3 sessions for cohort 1; 2 sessions for cohort 2 and ageing)

@@ -1,0 +1,50 @@
+0_action_actions_motor	motion perception					sensory modality
+1_object_objects_category	object recognition					sesnorimotor
+2_task_performance_cognitive	cued attention					motion perception
+3_visual_auditory_sensory	multisensory processing					pain
+4_statistical_functional_subject						visual attention
+5_face_faces_recognition	facial recognition					cued attention
+6_eeg_frequency_ms						inhibition error
+7_language_hemispheric_lateralization						resolve conflicts
+8_inhibition_response_inhibitory	inhibition error					feedback based learning
+9_women_sex_allele						reward driven decision making
+10_connectivity_functional_network						emotion regulation
+11_motion_visual_perception	motion and visuospatial memory					motion and visuospatial memory
+12_memory_retrieval_encoding	episodic memory					working memory
+13_children_age_adults						facial recognition
+14_patients_controls_reho						object recognition
+15_eye_spatial_gaze	eye movement					emotion comprehension
+16_asd_autism_controls						word comprehension
+17_social_participants_empathy	social cognition					speech comprehension
+18_human_role_information						sentences comprehension
+19_stimulus_responses_response						episodic memory
+20_reading_language_words	reading					reading
+21_pattern_patterns_ica						numerical cognition
+22_memory_working_wm	working memory					face/affective processing
+23_emotional_faces_facial	face/affective processing					
+24_training_treatment_practice						
+25_learning_feedback_error	feedback based learning					
+26_food_taste_weight						
+27_alcohol_drug_smokers						
+28_patients_schizophrenia_controls						
+29_reward_decision_risk	reward driven decision making					
+30_volume_gray_structural						
+31_participants_individual_mechanisms						
+32_speech_auditory_sounds	auditory processing					
+33_areas_network_activation						
+34_patients_disease_ad						
+35_stimulation_somatosensory_tms						
+36_sentences_comprehension_language	sentences comprehension					
+37_age_adults_aging						
+38_activation_subjects_condition						
+39_functional_imaging_magnetic						
+40_emotional_negative_emotion	emotion regulation					
+41_attention_attentional_visual	visual attention					
+42_number_numerical_arithmetic	numerical cognition					
+43_bold_signal_level						
+44_semantic_words_word	verbal semantics					
+45_patients_depression_disorder						
+46_connectivity_model_effective						
+47_conflict_response_trials	resolve conflicts					
+48_pain_painful_stimulation	pain					
+49_motor_movement_movements	sesnorimotor					

@@ -1,0 +1,14 @@
+Feature,reports/figures/comp1_mean.nii.gz,reports/figures/comp2_mean.nii.gz,reports/figures/common_pos_clusters_fromclusters.nii.gz,reports/figures/common_neg_clusters_fromclusters.nii.gz,reports/figures/common_1p2n_clusters_fromclusters.nii.gz,reports/figures/common_1n2p_clusters_fromclusters.nii.gz
+decision,0.0071,-0.0335,0.0344,-0.0135,0.0648,0.0499
+switching,-0.0041,-0.0377,0.0237,0.0184,0.0682,0.0601
+control,-0.0792,-0.0391,-0.0266,0.0206,0.0116,0.0392
+word,0.0648,-0.0772,0.0438,0.1053,0.1379,0.0102
+image,0.02,0.0343,-0.0266,-0.0423,-0.0387,-0.0295
+semantics,0.0474,-0.057,0.0423,0.0693,0.0716,-0.0076
+memory,-0.0142,-0.0265,0.039,0.0372,0.0646,0.075
+vision,0.0519,0.0324,0.0449,0.0421,0.0689,0.0597
+intelligence,0.0211,-0.0287,0.0175,0.0059,-0.0041,-0.0285
+working memory,-0.0463,-0.036,0.0157,0.038,0.0876,0.0986
+face,0.0572,0.0644,0.0363,-0.0246,-0.0027,0.041
+object,0.0883,0.0447,0.0804,0.0093,0.0979,0.061
+attentional,-0.0021,-0.0162,0.0535,0.0478,0.0956,0.1017
